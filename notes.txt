@@ -1,0 +1,16 @@
+no. of days spent on frontend
+///
+no. of days spent on backend
+/
+
+- responsive
+- login/sign up
+- add to cart
+- add to cart when not signed in
+- cart page
+- checkout page
+    - shipping address
+    - choose payment method
+    - review items and shipping(order total, arriving on 24 march for example)
+- add to whishlist
+- add to whishlist when not signed in
